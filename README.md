@@ -91,7 +91,16 @@ Returns a list of all products.
 ### `getProduct`
 Returns a product by its ID.
 
+
 ### `updateStockStatus`
 Updates the stock status of a product and returns whether the operation was successful.
+
+
+![4](https://github.com/user-attachments/assets/c2171620-4452-4133-8e4e-c6f6c998bf1d)
+
+
+![5](https://github.com/user-attachments/assets/61cafc2f-1a56-4731-bf52-eb9a66c031bc)
+
+
 
 
